@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_coordinator_eastus_app_name": {
+            "value": null
+        },
+        "serverfarms_ServicePlan7a64909f_0deb_4dfc_externalid": {
+            "value": null
+        }
+    }
+}
